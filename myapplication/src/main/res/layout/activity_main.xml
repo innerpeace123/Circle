@@ -9,7 +9,7 @@
     android:orientation="vertical"
     >
 
-    <com.card.cardpt.myapplication.CircleView
+    <com.admin.myapplication.CircleView
         android:id="@+id/circleview"
         android:layout_width="100dp"
         android:layout_height="100dp"
@@ -27,8 +27,4 @@
         android:layout_height="wrap_content"
         android:text="停止"/>
 
-    <com.card.cardpt.myapplication.FlowLayout
-        android:id="@+id/flowLayout"
-        android:layout_width="300dp"
-        android:layout_height="300dp"/>
 </LinearLayout>
